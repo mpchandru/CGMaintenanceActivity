@@ -1,0 +1,39 @@
+.leftMenucontainer {
+    position: fixed;
+    z-index: 3;
+    background: #12abdb;
+    height: 100%;
+    width: 135px;
+    box-shadow: 5px 0 5px -5px #333;
+    top: 65px;
+}
+.leftMenucontainer ul {
+    padding: 0;
+}
+.leftMenucontainer ul li {
+    padding: 12px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    height: 97px;
+    border-bottom: 1px solid #fff;
+}
+.leftMenucontainer ul li i {
+    font-size: 20px;
+    padding: 5px;
+    color: #fff;
+}
+.leftMenucontainer ul li p {
+margin-bottom: 0;
+padding: 5px;
+color: #fff;
+}
+.leftMenucontainer ul li a {
+    text-decoration: none;
+}
+.leftMenucontainer ul li:hover {
+    background: #0070ad;
+}

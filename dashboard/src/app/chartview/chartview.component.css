@@ -1,0 +1,17 @@
+.card {
+    box-shadow: 0 0 5px rgba(0,0,0,.2);
+}
+.card-header {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 12px;
+    background-color: rgb(0, 112, 173);
+    border-left: 4px solid #12abdb;
+    border-radius: 0;
+    color: #fff;
+}
+.chartimg {
+    width: 100%;
+}
